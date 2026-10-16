@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | soustitres-atelier | [repo](https://github.com/salimadour31-boop/soustitres-atelier) | [démo](https://salimadour31-boop.github.io/soustitres-atelier/) |
 | 2026-10-16 | motif-atelier | [repo](https://github.com/salimadour31-boop/motif-atelier) | [démo](https://salimadour31-boop.github.io/motif-atelier/) |
 | 2026-10-16 | contraste-atelier | [repo](https://github.com/salimadour31-boop/contraste-atelier) | [démo](https://salimadour31-boop.github.io/contraste-atelier/) |
 | 2026-10-16 | timecode-atelier | [repo](https://github.com/salimadour31-boop/timecode-atelier) | [démo](https://salimadour31-boop.github.io/timecode-atelier/) |
@@ -18,6 +19,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## soustitres-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/soustitres-atelier
+- **Démo** : https://salimadour31-boop.github.io/soustitres-atelier/
+- **Résumé** :
+  Éditeur et outil de calage de sous-titres pour vidéastes, 100 % navigateur (vidéo/son local ou mode démo horloge).
+  Marquage IN/OUT au clavier ou en maintien, liste éditable, frise cliquable, aperçu stylé, décalage ± ms, conversion d’images/s, alertes vitesse de lecture / longueur / chevauchement.
+  Import SRT/WebVTT/JSON, export SRT/WebVTT/TXT/JSON, sauvegarde auto, FR/EN/Taqbaylit, MIT.
 
 ## motif-atelier
 
