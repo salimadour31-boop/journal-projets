@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | accords-atelier | [repo](https://github.com/salimadour31-boop/accords-atelier) | [démo](https://salimadour31-boop.github.io/accords-atelier/) |
 | 2026-10-16 | echelle-typo | [repo](https://github.com/salimadour31-boop/echelle-typo) | [démo](https://salimadour31-boop.github.io/echelle-typo/) |
 | 2026-10-16 | focale-cinema | [repo](https://github.com/salimadour31-boop/focale-cinema) | [démo](https://salimadour31-boop.github.io/focale-cinema/) |
 | 2026-10-16 | duotone-atelier | [repo](https://github.com/salimadour31-boop/duotone-atelier) | [démo](https://salimadour31-boop.github.io/duotone-atelier/) |
@@ -11,6 +12,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## accords-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/accords-atelier
+- **Démo** : https://salimadour31-boop.github.io/accords-atelier/
+- **Résumé** :
+  Générateur de progressions d'accords pour musiciens et compositeurs de musique de film.
+  12 tonalités, 9 modes, triades/septièmes, chiffrage romain, progressions célèbres, clavier visuel.
+  Lecture Web Audio (nappe, clavier, pincé, arpège), export MIDI/texte, FR/EN/Taqbaylit, MIT.
 
 ## echelle-typo
 
