@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | lut-atelier | [repo](https://github.com/salimadour31-boop/lut-atelier) | [démo](https://salimadour31-boop.github.io/lut-atelier/) |
 | 2026-10-16 | accords-atelier | [repo](https://github.com/salimadour31-boop/accords-atelier) | [démo](https://salimadour31-boop.github.io/accords-atelier/) |
 | 2026-10-16 | echelle-typo | [repo](https://github.com/salimadour31-boop/echelle-typo) | [démo](https://salimadour31-boop.github.io/echelle-typo/) |
 | 2026-10-16 | focale-cinema | [repo](https://github.com/salimadour31-boop/focale-cinema) | [démo](https://salimadour31-boop.github.io/focale-cinema/) |
@@ -12,6 +13,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## lut-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/lut-atelier
+- **Démo** : https://salimadour31-boop.github.io/lut-atelier/
+- **Résumé** :
+  Créateur de LUT d'étalonnage cinématique dans le navigateur, pour monteurs et vidéastes.
+  Lift/gamma/gain, balance des blancs, virage partiel, fondu film, 12 préréglages, aperçu avant/après et parade RVB.
+  Export .cube 17/33/65, PNG et Hald CLUT, import de LUT existantes, FR/EN/Taqbaylit, MIT.
 
 ## accords-atelier
 
