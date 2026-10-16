@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | rythme-atelier | [repo](https://github.com/salimadour31-boop/rythme-atelier) | [démo](https://salimadour31-boop.github.io/rythme-atelier/) |
 | 2026-10-16 | suite-accords | [repo](https://github.com/salimadour31-boop/suite-accords) | [démo](https://salimadour31-boop.github.io/suite-accords/) |
 | 2026-10-16 | storyboard-atelier | [repo](https://github.com/salimadour31-boop/storyboard-atelier) | [démo](https://salimadour31-boop.github.io/storyboard-atelier/) |
 | 2026-10-16 | soustitres-atelier | [repo](https://github.com/salimadour31-boop/soustitres-atelier) | [démo](https://salimadour31-boop.github.io/soustitres-atelier/) |
@@ -21,6 +22,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## rythme-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/rythme-atelier
+- **Démo** : https://salimadour31-boop.github.io/rythme-atelier/
+- **Résumé** :
+  Boîte à rythmes / séquenceur pas à pas pour musiciens, 100 % navigateur : 10 voix synthétisées en Web Audio (aucun échantillon), grille 12/16/24/32 pas (4/4 ou 6/8).
+  Vélocité par pas (doux/normal/accent), volume/pan/accord/déclin, muet/solo par piste, 40–240 BPM, swing, banques A–D (copier/coller/effacer/aléatoire/annuler, enchaînement), 8 préréglages originaux (house, trap, chaabi 6/8…).
+  Planification lookahead précise, export WAV (OfflineAudioContext) / MIDI standard (GM canal 10) / JSON, sauvegarde auto, raccourcis clavier, FR/EN/Taqbaylit, MIT.
 
 ## suite-accords
 
