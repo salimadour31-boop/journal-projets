@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | tramage-atelier | [repo](https://github.com/salimadour31-boop/tramage-atelier) | [démo](https://salimadour31-boop.github.io/tramage-atelier/) |
 | 2026-10-16 | grain-degrade | [repo](https://github.com/salimadour31-boop/grain-degrade) | [démo](https://salimadour31-boop.github.io/grain-degrade/) |
 | 2026-10-16 | lut-atelier | [repo](https://github.com/salimadour31-boop/lut-atelier) | [démo](https://salimadour31-boop.github.io/lut-atelier/) |
 | 2026-10-16 | accords-atelier | [repo](https://github.com/salimadour31-boop/accords-atelier) | [démo](https://salimadour31-boop.github.io/accords-atelier/) |
@@ -14,6 +15,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## tramage-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/tramage-atelier
+- **Démo** : https://salimadour31-boop.github.io/tramage-atelier/
+- **Résumé** :
+  Générateur de tramage (halftone) classique pour graphistes print, affiche et packaging, 100 % navigateur.
+  Motifs points / carrés / lignes / losanges, angle de trame, contraste, duotone, 10 préréglages artistiques.
+  Export PNG, SVG vectoriel (Illustrator) et JSON, interface FR/EN/Taqbaylit, licence MIT.
 
 ## grain-degrade
 
