@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | motif-atelier | [repo](https://github.com/salimadour31-boop/motif-atelier) | [démo](https://salimadour31-boop.github.io/motif-atelier/) |
 | 2026-10-16 | contraste-atelier | [repo](https://github.com/salimadour31-boop/contraste-atelier) | [démo](https://salimadour31-boop.github.io/contraste-atelier/) |
 | 2026-10-16 | timecode-atelier | [repo](https://github.com/salimadour31-boop/timecode-atelier) | [démo](https://salimadour31-boop.github.io/timecode-atelier/) |
 | 2026-10-16 | tramage-atelier | [repo](https://github.com/salimadour31-boop/tramage-atelier) | [démo](https://salimadour31-boop.github.io/tramage-atelier/) |
@@ -17,6 +18,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## motif-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/motif-atelier
+- **Démo** : https://salimadour31-boop.github.io/motif-atelier/
+- **Résumé** :
+  Générateur de motifs répétables sans raccord (tuiles / seamless patterns) pour graphistes, 100 % navigateur.
+  12 formes procédurales, 7 modes de répétition (grille, demi-chute, brique, miroir, rotation × 4, hexagonal, semis), graine reproductible, 12 palettes.
+  Export tuile SVG/PNG, grand PNG répété (1920×1080, 4K, 3000×3000…), fond CSS data URI, JSON, lien de partage, FR/EN/Taqbaylit, MIT.
 
 ## contraste-atelier
 
