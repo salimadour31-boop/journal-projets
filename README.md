@@ -4,11 +4,21 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | focale-cinema | [repo](https://github.com/salimadour31-boop/focale-cinema) | [démo](https://salimadour31-boop.github.io/focale-cinema/) |
 | 2026-10-16 | duotone-atelier | [repo](https://github.com/salimadour31-boop/duotone-atelier) | [démo](https://salimadour31-boop.github.io/duotone-atelier/) |
 | 2026-10-16 | bpm-atelier | [repo](https://github.com/salimadour31-boop/bpm-atelier) | [démo](https://salimadour31-boop.github.io/bpm-atelier/) |
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## focale-cinema
+
+- **Dépôt** : https://github.com/salimadour31-boop/focale-cinema
+- **Démo** : https://salimadour31-boop.github.io/focale-cinema/
+- **Résumé** :
+  Calculateur de profondeur de champ (DoF) et de champ de vision (FOV) pour cinéastes.
+  Capteurs (FF, APS-C, Super 35…), focale, ouverture, distance, schéma SVG live.
+  Interface FR/EN/Taqbaylit, unités métriques/impériales, 100 % navigateur, MIT.
 
 ## duotone-atelier
 
