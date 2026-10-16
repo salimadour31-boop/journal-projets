@@ -4,10 +4,20 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | duotone-atelier | [repo](https://github.com/salimadour31-boop/duotone-atelier) | [démo](https://salimadour31-boop.github.io/duotone-atelier/) |
 | 2026-10-16 | bpm-atelier | [repo](https://github.com/salimadour31-boop/bpm-atelier) | [démo](https://salimadour31-boop.github.io/bpm-atelier/) |
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## duotone-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/duotone-atelier
+- **Démo** : https://salimadour31-boop.github.io/duotone-atelier/
+- **Résumé** :
+  Studio duotone gratuit dans le navigateur pour graphistes.
+  Ombre + lumière, préréglages, force/luminosité/contraste, export PNG.
+  Traitement 100 % local, interface FR/EN/Taqbaylit, licence MIT.
 
 ## bpm-atelier
 
