@@ -4,12 +4,22 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | echelle-typo | [repo](https://github.com/salimadour31-boop/echelle-typo) | [démo](https://salimadour31-boop.github.io/echelle-typo/) |
 | 2026-10-16 | focale-cinema | [repo](https://github.com/salimadour31-boop/focale-cinema) | [démo](https://salimadour31-boop.github.io/focale-cinema/) |
 | 2026-10-16 | duotone-atelier | [repo](https://github.com/salimadour31-boop/duotone-atelier) | [démo](https://salimadour31-boop.github.io/duotone-atelier/) |
 | 2026-10-16 | bpm-atelier | [repo](https://github.com/salimadour31-boop/bpm-atelier) | [démo](https://salimadour31-boop.github.io/bpm-atelier/) |
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## echelle-typo
+
+- **Dépôt** : https://github.com/salimadour31-boop/echelle-typo
+- **Démo** : https://salimadour31-boop.github.io/echelle-typo/
+- **Résumé** :
+  Générateur d'échelle typographique modulaire pour graphistes (print & web).
+  Ratios musicaux, baseline rhythm, aperçu A4/Letter, export CSS/JSON/PNG.
+  Interface FR/EN/Taqbaylit, 100 % navigateur, licence MIT.
 
 ## focale-cinema
 
