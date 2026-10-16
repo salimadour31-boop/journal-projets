@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | storyboard-atelier | [repo](https://github.com/salimadour31-boop/storyboard-atelier) | [démo](https://salimadour31-boop.github.io/storyboard-atelier/) |
 | 2026-10-16 | soustitres-atelier | [repo](https://github.com/salimadour31-boop/soustitres-atelier) | [démo](https://salimadour31-boop.github.io/soustitres-atelier/) |
 | 2026-10-16 | motif-atelier | [repo](https://github.com/salimadour31-boop/motif-atelier) | [démo](https://salimadour31-boop.github.io/motif-atelier/) |
 | 2026-10-16 | contraste-atelier | [repo](https://github.com/salimadour31-boop/contraste-atelier) | [démo](https://salimadour31-boop.github.io/contraste-atelier/) |
@@ -19,6 +20,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## storyboard-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/storyboard-atelier
+- **Démo** : https://salimadour31-boop.github.io/storyboard-atelier/
+- **Résumé** :
+  Storyboard et découpage technique pour vidéastes, 100 % navigateur : planche de cases numérotées automatiquement (scène / plan), réordonnables par glisser-déposer, annuler / rétablir.
+  Croquis vectoriel par case (crayon, gomme, couleurs, tampons caméra, repères tiers / zones sûres, image locale), fiche valeur de plan / angle / mouvement / objectif / durée / action / dialogue / son / transition.
+  Totaux par scène, animatic plein écran avec transitions, export PDF (impression), planche contact PNG, liste des plans CSV, projet JSON, sauvegarde auto, FR/EN/Taqbaylit, MIT.
 
 ## soustitres-atelier
 
