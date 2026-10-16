@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | grain-degrade | [repo](https://github.com/salimadour31-boop/grain-degrade) | [démo](https://salimadour31-boop.github.io/grain-degrade/) |
 | 2026-10-16 | lut-atelier | [repo](https://github.com/salimadour31-boop/lut-atelier) | [démo](https://salimadour31-boop.github.io/lut-atelier/) |
 | 2026-10-16 | accords-atelier | [repo](https://github.com/salimadour31-boop/accords-atelier) | [démo](https://salimadour31-boop.github.io/accords-atelier/) |
 | 2026-10-16 | echelle-typo | [repo](https://github.com/salimadour31-boop/echelle-typo) | [démo](https://salimadour31-boop.github.io/echelle-typo/) |
@@ -13,6 +14,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## grain-degrade
+
+- **Dépôt** : https://github.com/salimadour31-boop/grain-degrade
+- **Démo** : https://salimadour31-boop.github.io/grain-degrade/
+- **Résumé** :
+  Générateur de dégradés maillés granuleux (mesh gradient + grain) pour graphistes, dans le navigateur.
+  3 à 8 points déplaçables, douceur, ondulation, mélange OKLab, grain procédural, vignette, 10 préréglages, palette aléatoire.
+  Export PNG pleine résolution, CSS approché et JSON, graine reproductible, lien partageable, FR/EN/Taqbaylit, MIT.
 
 ## lut-atelier
 
