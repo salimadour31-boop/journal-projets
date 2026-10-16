@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | studio-musique-ia | [repo](https://github.com/salimadour31-boop/studio-musique-ia) | [démo](https://salimadour31-boop.github.io/studio-musique-ia/) |
 | 2026-10-16 | eclairage-atelier | [repo](https://github.com/salimadour31-boop/eclairage-atelier) | [démo](https://salimadour31-boop.github.io/eclairage-atelier/) |
 | 2026-10-16 | rythme-atelier | [repo](https://github.com/salimadour31-boop/rythme-atelier) | [démo](https://salimadour31-boop.github.io/rythme-atelier/) |
 | 2026-10-16 | suite-accords | [repo](https://github.com/salimadour31-boop/suite-accords) | [démo](https://salimadour31-boop.github.io/suite-accords/) |
@@ -41,6 +42,15 @@ Compte-rendu des outils open source publiés.
   Boîte à rythmes / séquenceur pas à pas pour musiciens, 100 % navigateur : 10 voix synthétisées en Web Audio (aucun échantillon), grille 12/16/24/32 pas (4/4 ou 6/8).
   Vélocité par pas (doux/normal/accent), volume/pan/accord/déclin, muet/solo par piste, 40–240 BPM, swing, banques A–D (copier/coller/effacer/aléatoire/annuler, enchaînement), 8 préréglages originaux (house, trap, chaabi 6/8…).
   Planification lookahead précise, export WAV (OfflineAudioContext) / MIDI standard (GM canal 10) / JSON, sauvegarde auto, raccourcis clavier, FR/EN/Taqbaylit, MIT.
+
+## studio-musique-ia
+
+- **Dépôt** : https://github.com/salimadour31-boop/studio-musique-ia
+- **Démo (appli PWA)** : https://salimadour31-boop.github.io/studio-musique-ia/ — serveur sur PC Windows ou Google Colab (bouton « Open in Colab »)
+- **Résumé** :
+  Générateur de musique par IA open source et illimité (type Suno) : texte, paroles et/ou audio → morceau, via ACE-Step 1.5 (MIT, chansons chantées) ou MusicGen (poids non commerciaux), plus un moteur démo sans IA.
+  Serveur FastAPI local (install.bat / start.bat avec uv, mode CPU utilisable avec MusicGen small), notebook Colab GPU T4 gratuit avec lien HTTPS public et QR code.
+  Appli Android/PC installable (FR/EN/Taqbaylit) qui se connecte au PC en Wi-Fi (QR + token) ou à toute adresse HTTPS ; historique, export WAV/MP3, MIT.
 
 ## suite-accords
 
