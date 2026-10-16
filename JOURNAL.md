@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | accordeur-atelier | [repo](https://github.com/salimadour31-boop/accordeur-atelier) | [démo](https://salimadour31-boop.github.io/accordeur-atelier/) |
 | 2026-10-16 | studio-musique-ia | [repo](https://github.com/salimadour31-boop/studio-musique-ia) | [démo](https://salimadour31-boop.github.io/studio-musique-ia/) |
 | 2026-10-16 | eclairage-atelier | [repo](https://github.com/salimadour31-boop/eclairage-atelier) | [démo](https://salimadour31-boop.github.io/eclairage-atelier/) |
 | 2026-10-16 | rythme-atelier | [repo](https://github.com/salimadour31-boop/rythme-atelier) | [démo](https://salimadour31-boop.github.io/rythme-atelier/) |
@@ -24,6 +25,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## accordeur-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/accordeur-atelier
+- **Démo** : https://salimadour31-boop.github.io/accordeur-atelier/
+- **Résumé** :
+  Accordeur chromatique et diapason pour musiciens, 100 % navigateur : détection YIN originale (précision < 1 cent, de 31 Hz à 2 kHz), source micro, signal de test ou fichier audio local.
+  18 accordages (guitare standard/drop D/DADGAD/open G/open D/½ ton/7 cordes, basse 4/5, ukulélé, mandoline, banjo, oud, violon, alto, violoncelle), repérage auto de la corde, coche par corde accordée, diapason 400–480 Hz, instruments transpositeurs (Si♭, Mi♭, Fa…), Do Ré Mi ou C D E.
+  Aiguille ou stroboscope, note de référence (sinus, orgue, corde pincée Karplus-Strong, bourdon), historique des cents + export CSV, réglages JSON, thème clair/sombre, raccourcis, FR/EN/Taqbaylit, MIT.
 
 ## eclairage-atelier
 
