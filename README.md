@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | contraste-atelier | [repo](https://github.com/salimadour31-boop/contraste-atelier) | [démo](https://salimadour31-boop.github.io/contraste-atelier/) |
 | 2026-10-16 | timecode-atelier | [repo](https://github.com/salimadour31-boop/timecode-atelier) | [démo](https://salimadour31-boop.github.io/timecode-atelier/) |
 | 2026-10-16 | tramage-atelier | [repo](https://github.com/salimadour31-boop/tramage-atelier) | [démo](https://salimadour31-boop.github.io/tramage-atelier/) |
 | 2026-10-16 | grain-degrade | [repo](https://github.com/salimadour31-boop/grain-degrade) | [démo](https://salimadour31-boop.github.io/grain-degrade/) |
@@ -16,6 +17,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## contraste-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/contraste-atelier
+- **Démo** : https://salimadour31-boop.github.io/contraste-atelier/
+- **Résumé** :
+  Studio de contraste WCAG 2.1 pour graphistes, 100 % navigateur.
+  Ratio live, auto-fix AA/AAA, pipette image locale, simulation daltonisme, 12 préréglages, export JSON/CSS/PNG.
+  Interface FR/EN/Taqbaylit, thème sombre responsive, licence MIT.
 
 ## timecode-atelier
 
