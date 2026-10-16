@@ -122,6 +122,7 @@ Compte-rendu des outils open source publiés.
   Générateur de progressions d'accords pour musiciens et compositeurs de musique de film.
   12 tonalités, 9 modes, triades/septièmes, chiffrage romain, progressions célèbres, clavier visuel.
   Lecture Web Audio (nappe, clavier, pincé, arpège), export MIDI/texte, FR/EN/Taqbaylit, MIT.
+- **Mise à jour v2 (2026-10-16)** : studio multipiste — import de mélodie MIDI/audio (parseur MIDI maison, YIN, BPM auto/tap), détection tonalité/mode et harmonisation, générateur de mélodie à graine + variations, pistes Mélodie/Accords/Basse/Batterie (volume, pan, mute/solo, instrument, filtre, réverb/écho), master limiteur, métronome, timeline, exports WAV/stems/MIDI multipiste/JSON.
 
 ## echelle-typo
 
