@@ -27,9 +27,10 @@ Compte-rendu des outils open source publiés.
 - **Dépôt** : https://github.com/salimadour31-boop/suite-accords
 - **Démo** : https://salimadour31-boop.github.io/suite-accords/
 - **Résumé** :
-  PWA installable et hors ligne qui génère des progressions d'accords à partir d'un enregistrement (fichier ou micro, détection de hauteur YIN), d'une mélodie tapée/jouée au piano, ou d'une seule note.
-  Estimation de la tonalité (profils Krumhansl), 6 styles (pop, jazz, cinématique, triste, folk, rêveur) classés selon l'accord avec la mélodie, tempo, mesures, 5 instruments.
-  Lecture Web Audio, export WAV / MP3 (lamejs, LGPL) / MIDI avec mélodie mixable, FR/EN/Taqbaylit, MIT.
+  PWA installable (Android, iOS, ordinateur) et hors ligne qui génère des progressions d'accords à partir d'un enregistrement (fichier/micro, YIN), d'une mélodie tapée/jouée au piano, ou d'une note ; tonalité via profils Krumhansl.
+  19 styles (pop, jazz ii-V-I, blues 12 mesures, bossa, cinématique, lo-fi, gospel, néo-soul, flamenco, Hijaz kabyle/oriental, modes…), voicings et conduite des voix, réharmonisation, « Régénérer », arpèges, thème mélodique, basse et batterie générés.
+  Sons acoustiques échantillonnés (FluidR3_GM, CC BY 3.0) + synthé, export WAV / MP3 (lamejs, LGPL) / MIDI multipiste, bouton d'installation avec aide par plateforme, FR/EN/Taqbaylit, MIT.
+- **2026-10-16 (v2)** : correction de l'installation Android (bouton toujours visible + aide, détection des navigateurs intégrés Facebook/Instagram/Messenger, manifeste complété, service worker v3).
 
 ## storyboard-atelier
 
