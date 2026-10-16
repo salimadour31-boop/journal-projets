@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | timecode-atelier | [repo](https://github.com/salimadour31-boop/timecode-atelier) | [démo](https://salimadour31-boop.github.io/timecode-atelier/) |
 | 2026-10-16 | tramage-atelier | [repo](https://github.com/salimadour31-boop/tramage-atelier) | [démo](https://salimadour31-boop.github.io/tramage-atelier/) |
 | 2026-10-16 | grain-degrade | [repo](https://github.com/salimadour31-boop/grain-degrade) | [démo](https://salimadour31-boop.github.io/grain-degrade/) |
 | 2026-10-16 | lut-atelier | [repo](https://github.com/salimadour31-boop/lut-atelier) | [démo](https://salimadour31-boop.github.io/lut-atelier/) |
@@ -15,6 +16,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## timecode-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/timecode-atelier
+- **Démo** : https://salimadour31-boop.github.io/timecode-atelier/
+- **Résumé** :
+  Calculatrice de timecode SMPTE pour monteurs et cinéastes, 100 % navigateur.
+  Conversion timecode/images/secondes/pieds 35 mm, drop-frame exact 29.97/59.94, additions de durées, IN/OUT, export CSV.
+  Changement de cadence (durée ou images + vitesse %), estimation de stockage par codec, FR/EN/Taqbaylit, MIT.
 
 ## tramage-atelier
 
