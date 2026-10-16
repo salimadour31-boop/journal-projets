@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-16 | eclairage-atelier | [repo](https://github.com/salimadour31-boop/eclairage-atelier) | [démo](https://salimadour31-boop.github.io/eclairage-atelier/) |
 | 2026-10-16 | rythme-atelier | [repo](https://github.com/salimadour31-boop/rythme-atelier) | [démo](https://salimadour31-boop.github.io/rythme-atelier/) |
 | 2026-10-16 | suite-accords | [repo](https://github.com/salimadour31-boop/suite-accords) | [démo](https://salimadour31-boop.github.io/suite-accords/) |
 | 2026-10-16 | storyboard-atelier | [repo](https://github.com/salimadour31-boop/storyboard-atelier) | [démo](https://salimadour31-boop.github.io/storyboard-atelier/) |
@@ -22,6 +23,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## eclairage-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/eclairage-atelier
+- **Démo** : https://salimadour31-boop.github.io/eclairage-atelier/
+- **Résumé** :
+  Plan d'éclairage et de plateau vu de dessus pour vidéastes et photographes, 100 % navigateur : grille en mètres, zoom/pan/pincement, magnétisme, 22 éléments dessinés à la main (caméra avec cône de champ selon focale + capteur, acteurs, Fresnel/LED/softbox/octa/practical/tube/soleil, modificateurs, décor, travelling, flèches, notes).
+  Glisser-déposer souris/tactile, rotation par poignée, propriétés (faisceau, intensité, K avec faisceau teinté, rôle key/fill/back/rim/fond), calques, annuler/rétablir ; liste du matériel auto et estimation key:fill (inverse du carré, réflecteurs comptés en fill).
+  5 préréglages originaux (interview 3 points, Rembrandt, nuit/clair de lune, produit, dialogue champ/contrechamp), export SVG / PNG 2× / JSON / PDF imprimable, sauvegarde auto, thème clair/sombre, FR/EN/Taqbaylit, MIT.
 
 ## rythme-atelier
 
