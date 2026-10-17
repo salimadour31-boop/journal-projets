@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | specimen-atelier | [repo](https://github.com/salimadour31-boop/specimen-atelier) | [démo](https://salimadour31-boop.github.io/specimen-atelier/) |
 | 2026-10-17 | animation-atelier | [repo](https://github.com/salimadour31-boop/animation-atelier) | [démo](https://salimadour31-boop.github.io/animation-atelier/) |
 | 2026-10-17 | glitch-atelier | [repo](https://github.com/salimadour31-boop/glitch-atelier) | [démo](https://salimadour31-boop.github.io/glitch-atelier/) |
 | 2026-10-17 | moodboard-atelier | [repo](https://github.com/salimadour31-boop/moodboard-atelier) | [démo](https://salimadour31-boop.github.io/moodboard-atelier/) |
@@ -48,6 +49,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## specimen-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/specimen-atelier
+- **Démo** : https://salimadour31-boop.github.io/specimen-atelier/
+- **Résumé** :
+  Inspecteur de polices 100 % navigateur (rien n'est envoyé) : TTF, OTF/CFF, TTC, WOFF lus par un analyseur OpenType écrit de zéro et vérifié contre fontTools ; WOFF2 affiché.
+  Spécimen vivant (axes variables, instances nommées, animation, fonctions OpenType et jeux stylistiques nommés, RTL arabe), glyphes par bloc Unicode avec inspecteur de métriques.
+  Couverture de 18 langues (français, taqbaylit latin/tifinagh, tamaziɣt IRCAM, arabe…) avec caractères manquants et test de texte, licence/fsType, comparaison superposée, exports PNG/PDF/JSON/CSS, FR/EN/Taqbaylit + tifinagh.
 
 ## animation-atelier
 
