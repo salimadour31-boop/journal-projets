@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | arrangeur-midi | [repo](https://github.com/salimadour31-boop/arrangeur-midi) | [release v0.1.0](https://github.com/salimadour31-boop/arrangeur-midi/releases/tag/v0.1.0) |
 | 2026-10-17 | atelier-instruments | [repo](https://github.com/salimadour31-boop/atelier-instruments) | [release v0.1.0](https://github.com/salimadour31-boop/atelier-instruments/releases/tag/v0.1.0) |
 | 2026-10-17 | voix-juste | [repo](https://github.com/salimadour31-boop/voix-juste) | [releases](https://github.com/salimadour31-boop/voix-juste/releases) |
 | 2026-10-17 | synthe-atelier | [repo](https://github.com/salimadour31-boop/synthe-atelier) | [démo](https://salimadour31-boop.github.io/synthe-atelier/) |
@@ -50,6 +51,15 @@ Compte-rendu des outils open source publiés.
   Trois instruments virtuels libres au son acoustique pour FL Studio : Atelier Piano (Salamander, CC-BY 3.0), Atelier Batterie (GM, mixeur par élément, Virtuosity Drums CC0), Atelier Cordes (VSCO 2 CE, CC0).
   Moteur d'échantillonnage maison type SFZ (couches de vélocité, round-robin, choke, ADSR, boucles, sustain, réverb) sur JUCE 8, VST3 Windows x64 + VST3/AU macOS universel (Intel + Apple Silicon).
   CI GitHub Actions : installateur Inno Setup, .pkg macOS, pluginval, auval et rendus audio hors ligne ; README FR/EN/Taqbaylit, code AGPLv3.
+
+## arrangeur-midi
+
+- **Dépôt** : https://github.com/salimadour31-boop/arrangeur-midi
+- **Téléchargement** : https://github.com/salimadour31-boop/arrangeur-midi/releases/tag/v0.1.0 (VST3/VST2/CLAP Windows x64, macOS universel, Linux + LV2)
+- **Résumé** :
+  Instrument VST3/VST2/CLAP libre (MIT, DPF/ISC) pour arrangeurs : une touche = un accord dans la gamme choisie (modes, Hijaz, Nahawand, Kurd, Rast≈…), 12 progressions par style, voicings et voice leading.
+  Strum, arpégiateur calé sur le tempo de l'hôte (7 motifs, swing, octaves), ligne de basse, humanisation, sortie MIDI (ports FL / Patcher), export .mid, synthé d'écoute intégré.
+  250 tests hors ligne (dont 400 sessions aléatoires sans note bloquée), hôte CLAP vérifiant la sortie MIDI, pluginval niveau 10 (VST3+VST2), CI Windows/macOS/Linux ; pas encore essayé dans FL Studio.
 
 ## voix-juste
 
