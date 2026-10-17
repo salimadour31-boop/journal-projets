@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | gammes-atelier | [repo](https://github.com/salimadour31-boop/gammes-atelier) | [démo](https://salimadour31-boop.github.io/gammes-atelier/) |
 | 2026-10-17 | sonie-atelier | [repo](https://github.com/salimadour31-boop/sonie-atelier) | [démo](https://salimadour31-boop.github.io/sonie-atelier/) |
 | 2026-10-17 | bandeau-atelier | [repo](https://github.com/salimadour31-boop/bandeau-atelier) | [démo](https://salimadour31-boop.github.io/bandeau-atelier/) |
 | 2026-10-17 | generique-atelier | [repo](https://github.com/salimadour31-boop/generique-atelier) | [démo](https://salimadour31-boop.github.io/generique-atelier/) |
@@ -30,6 +31,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## gammes-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/gammes-atelier
+- **Démo** : https://salimadour31-boop.github.io/gammes-atelier/
+- **Résumé** :
+  Explorateur de gammes, modes et maqamat 100 % navigateur : 63 gammes dont modes d'église, mineurs harmonique/mélodique, pentatoniques, couleurs amazighes/kabyles (approximations assumées) et 15 maqamat arabes en quarts de ton (24-TET).
+  Vues piano 2 octaves, guitare (8 accordages, 12–22 cases, gaucher), oud sans frettes avec quarts de ton exacts et cercle chromatique/quintes ; son Web Audio (montée/descente, tempo, timbres, bourdon, La 415–466 Hz).
+  Théorie (formule, pas en tons, accords diatoniques, modes relatifs, couleurs voisines), recherche « quelles gammes contiennent ces notes », export PNG/SVG/MIDI (quarts de ton par pitch bend)/JSON, lien partageable, FR/EN/Taqbaylit, MIT.
 
 ## sonie-atelier
 
