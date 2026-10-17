@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | cinemetrie-atelier | [repo](https://github.com/salimadour31-boop/cinemetrie-atelier) | [démo](https://salimadour31-boop.github.io/cinemetrie-atelier/) |
 | 2026-10-17 | forme-atelier | [repo](https://github.com/salimadour31-boop/forme-atelier) | [démo](https://salimadour31-boop.github.io/forme-atelier/) |
 | 2026-10-17 | arrangeur-midi | [repo](https://github.com/salimadour31-boop/arrangeur-midi) | [release v0.1.0](https://github.com/salimadour31-boop/arrangeur-midi/releases/tag/v0.1.0) |
 | 2026-10-17 | atelier-instruments | [repo](https://github.com/salimadour31-boop/atelier-instruments) | [release v0.1.0](https://github.com/salimadour31-boop/atelier-instruments/releases/tag/v0.1.0) |
@@ -43,6 +44,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## cinemetrie-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/cinemetrie-atelier
+- **Démo** : https://salimadour31-boop.github.io/cinemetrie-atelier/
+- **Résumé** :
+  Découpage automatique d'une vidéo en plans, 100 % navigateur (rien n'est envoyé) : coupes détectées puis affinées à l'image près, flashs ignorés, scènes sombres gérées.
+  Durée moyenne des plans (ASL), médiane, coupes/minute, graphe du rythme du montage, histogramme, code-barres couleur, vignette + palette par plan, corrections manuelles et notes.
+  Exports planche-contact PNG, EDL CMX3600, CSV, WebVTT, JSON ; 14 tests unitaires + test navigateur sur un film ffmpeg (6/6 coupes à l'image exacte à 1×/4×/16×), CI verte ; FR/EN/Taqbaylit.
 
 ## forme-atelier
 
