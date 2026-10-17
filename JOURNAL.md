@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | claquette-atelier | [repo](https://github.com/salimadour31-boop/claquette-atelier) | [démo](https://salimadour31-boop.github.io/claquette-atelier/) |
 | 2026-10-17 | cinemetrie-atelier | [repo](https://github.com/salimadour31-boop/cinemetrie-atelier) | [démo](https://salimadour31-boop.github.io/cinemetrie-atelier/) |
 | 2026-10-17 | forme-atelier | [repo](https://github.com/salimadour31-boop/forme-atelier) | [démo](https://salimadour31-boop.github.io/forme-atelier/) |
 | 2026-10-17 | arrangeur-midi | [repo](https://github.com/salimadour31-boop/arrangeur-midi) | [release v0.1.0](https://github.com/salimadour31-boop/arrangeur-midi/releases/tag/v0.1.0) |
@@ -44,6 +45,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## claquette-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/claquette-atelier
+- **Démo** : https://salimadour31-boop.github.io/claquette-atelier/
+- **Résumé** :
+  Claquette numérique pour téléphone/tablette, 100 % navigateur et hors ligne (PWA) : production, scène, plan, prise, cadence, INT/EXT, JOUR/NUIT, SYNC/MOS, plein écran, écran maintenu allumé.
+  Timecode qui défile à la bonne cadence (heure du jour ou jam, 29,97 drop-frame) ; CLAP = flash blanc de N images + bip Web Audio, décompte 3-2-1, timecode figé, prise suivante automatique.
+  Journal des prises (bonne/NG/cerclée, notes) exporté en CSV/JSON, amorce 8→2 avec 2-pop exportée en WebM avec son, claquette en PNG ; 10 tests unitaires + e2e Playwright, CI verte ; FR/EN/Taqbaylit.
 
 ## cinemetrie-atelier
 
