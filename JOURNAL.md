@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | grille-atelier | [repo](https://github.com/salimadour31-boop/grille-atelier) | [démo](https://salimadour31-boop.github.io/grille-atelier/) |
 | 2026-10-17 | oreille-atelier | [repo](https://github.com/salimadour31-boop/oreille-atelier) | [démo](https://salimadour31-boop.github.io/oreille-atelier/) |
 | 2026-10-17 | gammes-atelier | [repo](https://github.com/salimadour31-boop/gammes-atelier) | [démo](https://salimadour31-boop.github.io/gammes-atelier/) |
 | 2026-10-17 | sonie-atelier | [repo](https://github.com/salimadour31-boop/sonie-atelier) | [démo](https://salimadour31-boop.github.io/sonie-atelier/) |
@@ -32,6 +33,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## grille-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/grille-atelier
+- **Démo** : https://salimadour31-boop.github.io/grille-atelier/
+- **Résumé** :
+  Générateur de grilles et gabarits de dessin à imprimer, 100 % navigateur : 16 types (quadrillage, points, isométrique, dimétrique 2:1, triangles, hexagones, Seyès, polaire/mandala, planche de BD à syntaxe libre, storyboard, page vierge + composition).
+  Perspective 1/2/3 points avec points de fuite et horizon déplaçables dans l'aperçu (souris, doigt, clavier) et dallage de profondeur exact ; guides de calligraphie en largeurs de plume (latin, arabe Naskh/Thuluth/Roqaa avec échelle à droite, tifinagh) ; tiers, sections d'or, spirale d'or, diagonales, colonnes.
+  Formats A3–A6, B5, Letter, 16:9 ou libre (mm/in/px), marges, fond perdu, traits de coupe, 8 thèmes, 22 préréglages ; export SVG vectoriel en mm (calques), PNG 72–600 dpi avec DPI inscrit, impression au format exact, JSON, lien partageable ; FR/EN/Taqbaylit + tifinagh, MIT.
 
 ## oreille-atelier
 
