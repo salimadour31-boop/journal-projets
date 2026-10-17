@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | maquette-atelier | [repo](https://github.com/salimadour31-boop/maquette-atelier) | [démo](https://salimadour31-boop.github.io/maquette-atelier/) |
 | 2026-10-17 | vecteur-atelier | [repo](https://github.com/salimadour31-boop/vecteur-atelier) | [démo](https://salimadour31-boop.github.io/vecteur-atelier/) |
 | 2026-10-17 | soleil-atelier | [repo](https://github.com/salimadour31-boop/soleil-atelier) | [démo](https://salimadour31-boop.github.io/soleil-atelier/) |
 | 2026-10-17 | spectre-atelier | [repo](https://github.com/salimadour31-boop/spectre-atelier) | [démo](https://salimadour31-boop.github.io/spectre-atelier/) |
@@ -36,6 +37,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## maquette-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/maquette-atelier
+- **Démo** : https://salimadour31-boop.github.io/maquette-atelier/
+- **Résumé** :
+  Générateur de maquettes (mockups) 100 % navigateur : jusqu'à 6 visuels PNG/JPG/WebP/SVG (fichier, glisser-déposer, collage, rien n'est envoyé), placés en vraie perspective (homographie WebGL2 par pixel avec mipmaps/anisotropie, repli Canvas 2D par triangles) sur 11 scènes originales dessinées par le code : affiche encadrée, cartes de visite, flyer A4, livre, téléphone, portable, publication réseaux, boîte 3 faces, tote bag, panneau jour/crépuscule/nuit, perspective libre sur votre photo.
+  Caméra 3D virtuelle (cadrage, rotation, inclinaison) dont les coins projetés deviennent des poignées déplaçables (souris, tactile, clavier) ; un emplacement par face (visuel, ajustement, rotation) ; 8 thèmes, fonds uni/dégradé/transparent, matières procédurales raccordables (bois, béton, lin, plâtre, brique, terrazzo), lumière, ombres douces, brillance, encre en produit, papier, grain, vignettage, ombres de feuillage/store.
+  Exports PNG jusqu'à 3840 px (4K) avec fond transparent, JPG, réglages JSON, lien partageable (réglages et coins, jamais les images) ; tests géométrie + 36 vérifications Playwright (1440×900 / 390×844) ; FR/EN/Taqbaylit + tifinagh, MIT.
 
 ## vecteur-atelier
 
