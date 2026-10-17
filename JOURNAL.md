@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | moodboard-atelier | [repo](https://github.com/salimadour31-boop/moodboard-atelier) | [démo](https://salimadour31-boop.github.io/moodboard-atelier/) |
 | 2026-10-17 | claquette-atelier | [repo](https://github.com/salimadour31-boop/claquette-atelier) | [démo](https://salimadour31-boop.github.io/claquette-atelier/) |
 | 2026-10-17 | cinemetrie-atelier | [repo](https://github.com/salimadour31-boop/cinemetrie-atelier) | [démo](https://salimadour31-boop.github.io/cinemetrie-atelier/) |
 | 2026-10-17 | forme-atelier | [repo](https://github.com/salimadour31-boop/forme-atelier) | [démo](https://salimadour31-boop.github.io/forme-atelier/) |
@@ -45,6 +46,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## moodboard-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/moodboard-atelier
+- **Démo** : https://salimadour31-boop.github.io/moodboard-atelier/
+- **Résumé** :
+  Planche d'ambiance (moodboard) pour graphistes, 100 % navigateur et hors ligne (PWA) : images par glisser-déposer, sélecteur ou collage (Ctrl/Cmd+V), notes, mots-clés et cartes couleur ; rien n'est envoyé.
+  Mises en page colonnes (masonry ajustée au format), grille et libre (déplacer/redimensionner à la souris ou au doigt) ; espacement, marges, arrondi, fond, formats A4/A3, 16:9, 1:1, 4:5, 9:16 ou personnalisé.
+  Palette extraite automatiquement (k-means++ maison), copie HEX, export PNG 2×, palette JSON/CSS/GPL/texte, projet .json + sauvegarde auto IndexedDB ; 24 tests unitaires + e2e Playwright (100 vérifications), CI verte ; FR/EN/Taqbaylit.
 
 ## claquette-atelier
 
