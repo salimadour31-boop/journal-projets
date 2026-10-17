@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | oreille-atelier | [repo](https://github.com/salimadour31-boop/oreille-atelier) | [démo](https://salimadour31-boop.github.io/oreille-atelier/) |
 | 2026-10-17 | gammes-atelier | [repo](https://github.com/salimadour31-boop/gammes-atelier) | [démo](https://salimadour31-boop.github.io/gammes-atelier/) |
 | 2026-10-17 | sonie-atelier | [repo](https://github.com/salimadour31-boop/sonie-atelier) | [démo](https://salimadour31-boop.github.io/sonie-atelier/) |
 | 2026-10-17 | bandeau-atelier | [repo](https://github.com/salimadour31-boop/bandeau-atelier) | [démo](https://salimadour31-boop.github.io/bandeau-atelier/) |
@@ -31,6 +32,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## oreille-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/oreille-atelier
+- **Démo** : https://salimadour31-boop.github.io/oreille-atelier/
+- **Résumé** :
+  Entraîneur d'oreille musicale 100 % navigateur, sons synthétisés en direct (piano additif, corde pincée Karplus-Strong, sinus), sans échantillon ni compte.
+  5 exercices : intervalles (ascendants/descendants/harmoniques, composés jusqu'à 2 octaves), accords (triades, sus, septièmes, sixtes, renversements), gammes/modes/maqamat Rast, Bayati, Saba en quarts de ton (24-TET) et pentatonique amazighe (approximations assumées), dictée mélodique de 3 à 6 notes sur clavier à l'écran, identification des notes avec ou sans référence.
+  Réglages par exercice (éléments, tessiture, tonique fixe/aléatoire, tempo, timbre, La 415–466 Hz), correction avec réponse rejouée et comparaison, statistiques par élément et mode adaptatif, export JSON/CSV, raccourcis clavier, FR/EN/Taqbaylit + tifinagh, MIT.
 
 ## gammes-atelier
 
