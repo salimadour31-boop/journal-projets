@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | scenario-atelier | [repo](https://github.com/salimadour31-boop/scenario-atelier) | [démo](https://salimadour31-boop.github.io/scenario-atelier/) |
 | 2026-10-17 | maquette-atelier | [repo](https://github.com/salimadour31-boop/maquette-atelier) | [démo](https://salimadour31-boop.github.io/maquette-atelier/) |
 | 2026-10-17 | vecteur-atelier | [repo](https://github.com/salimadour31-boop/vecteur-atelier) | [démo](https://salimadour31-boop.github.io/vecteur-atelier/) |
 | 2026-10-17 | soleil-atelier | [repo](https://github.com/salimadour31-boop/soleil-atelier) | [démo](https://salimadour31-boop.github.io/soleil-atelier/) |
@@ -37,6 +38,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## scenario-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/scenario-atelier
+- **Démo** : https://salimadour31-boop.github.io/scenario-atelier/
+- **Résumé** :
+  Éditeur de scénario 100 % navigateur pour vidéastes : syntaxe ouverte Fountain avec analyseur original (en-têtes INT./EXT. et INTÉRIEUR/EXTÉRIEUR, personnages, dialogues, didascalies, dialogue simultané, transitions FR/EN, centré, notes, texte mis de côté, sections, synopsis, page de titre), éditeur coloré, Tab pour changer le type d'élément, autocomplétion personnages/lieux/moments, majuscules automatiques, dialogues arabes en RTL.
+  Aperçu paginé au format professionnel (Courier Prime 12 pt, US Letter 55 lignes / A4 58 lignes, retraits standard, en-têtes jamais orphelins, (MORE)/(CONT'D) ou (SUITE)), numéros de scène, page de titre, nombre de pages et durée estimée ; navigateur scènes/personnages/lieux et découpage jour/nuit, INT/EXT, huitièmes de page avec export CSV.
+  Exports .fountain, PDF par impression (même pagination, vérifiée par PDF Chrome), HTML autonome, JSON, texte ; import .fountain/.txt, projets multiples, sauvegarde auto ; thèmes sombre/clair/sépia, mobile ; démo originale en français ; 39 tests moteur + 37 Playwright ; FR/EN/Taqbaylit + tifinagh, MIT.
 
 ## maquette-atelier
 
