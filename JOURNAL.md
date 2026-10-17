@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | animation-atelier | [repo](https://github.com/salimadour31-boop/animation-atelier) | [démo](https://salimadour31-boop.github.io/animation-atelier/) |
 | 2026-10-17 | glitch-atelier | [repo](https://github.com/salimadour31-boop/glitch-atelier) | [démo](https://salimadour31-boop.github.io/glitch-atelier/) |
 | 2026-10-17 | moodboard-atelier | [repo](https://github.com/salimadour31-boop/moodboard-atelier) | [démo](https://salimadour31-boop.github.io/moodboard-atelier/) |
 | 2026-10-17 | claquette-atelier | [repo](https://github.com/salimadour31-boop/claquette-atelier) | [démo](https://salimadour31-boop.github.io/claquette-atelier/) |
@@ -47,6 +48,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## animation-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/animation-atelier
+- **Démo** : https://salimadour31-boop.github.io/animation-atelier/
+- **Résumé** :
+  Studio d'animation image par image 100 % navigateur (flipbook, rough, animatique) : dessin souris/tactile/stylet avec pression, pinceau, gomme, nuancier, annuler/rétablir par image, timeline à vignettes (ajouter, dupliquer, supprimer, réordonner).
+  Pelure d'oignon teintée (avant/après, nombre et opacité réglables), lecture 1–30 i/s en boucle ou ping-pong, formats 16:9 / 1:1 / 9:16 / 2.39:1, fond coloré ou transparent, rotoscopie sur image ou vidéo importée.
+  Exports WebM (MediaRecorder), planche PNG, séquence PNG en ZIP (écrivain ZIP maison), projet JSON + sauvegarde auto ; FR/EN/Taqbaylit ; 11 groupes de tests unitaires + 101 vérifications Playwright (ordinateur + mobile) en CI, MIT.
 
 ## glitch-atelier
 
