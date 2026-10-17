@@ -71,6 +71,8 @@ Compte-rendu des outils open source publiés.
   Générateur de musique par IA open source et illimité (type Suno) : texte, paroles et/ou audio → morceau, via ACE-Step 1.5 (MIT, chansons chantées) ou MusicGen (poids non commerciaux), plus un moteur démo sans IA.
   Serveur FastAPI local (install.bat / start.bat avec uv, mode CPU utilisable avec MusicGen small), notebook Colab GPU T4 gratuit avec lien HTTPS public et QR code.
   Appli Android/PC installable (FR/EN/Taqbaylit) qui se connecte au PC en Wi-Fi (QR + token) ou à toute adresse HTTPS ; historique, export WAV/MP3, MIT.
+- **Mise à jour 2026-10-17** : morceaux longs MusicGen jusqu'à 5 min (fenêtres de 30 s prolongeant les 10 dernières s, fondus, progression par segment) ; durée max affichée par moteur et ramenée avec un message visible ; carte « Démarrer » en 3 étapes ; lien Colab affiché en grand à la fin ; le notebook récupère toujours la dernière version du code.
+  Correctif « bruit au lieu de musique » : MusicGen tourne en float32 (le float16 sur GPU était le seul chemin non testé), chaque sortie passe un contrôle qualité (bruit blanc, silence, NaN), et une sortie invalide devient une erreur explicite au lieu de « Terminé » ; « auto » ne bascule plus jamais en douce sur le moteur démo, et chaque morceau indique le moteur réellement utilisé.
 
 ## suite-accords
 
