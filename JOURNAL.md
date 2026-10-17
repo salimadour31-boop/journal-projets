@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | onde-atelier | [repo](https://github.com/salimadour31-boop/onde-atelier) | [démo](https://salimadour31-boop.github.io/onde-atelier/) |
 | 2026-10-16 | accordeur-atelier | [repo](https://github.com/salimadour31-boop/accordeur-atelier) | [démo](https://salimadour31-boop.github.io/accordeur-atelier/) |
 | 2026-10-16 | studio-musique-ia | [repo](https://github.com/salimadour31-boop/studio-musique-ia) | [démo](https://salimadour31-boop.github.io/studio-musique-ia/) |
 | 2026-10-16 | eclairage-atelier | [repo](https://github.com/salimadour31-boop/eclairage-atelier) | [démo](https://salimadour31-boop.github.io/eclairage-atelier/) |
@@ -25,6 +26,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## onde-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/onde-atelier
+- **Démo** : https://salimadour31-boop.github.io/onde-atelier/
+- **Résumé** :
+  Générateur d'audiogrammes et de visualiseurs audio en vidéo, 100 % navigateur : fichier audio local (glisser-déposer) ou son de démo synthétisé en Web Audio.
+  5 visualiseurs originaux (barres miroir, oscilloscope, anneau vinyle, points, forme d'onde défilante), formats 1:1, 9:16, 16:9, 4:5, fond uni/dégradé/image floutée, grain, vignettage, titre Unicode (tifinagh, arabe), 6 thèmes.
+  Export vidéo WebM (VP9/VP8 + Opus) du morceau ou d'un segment avec progression et annulation, affiche PNG, réglages JSON, sauvegarde auto, FR/EN/Taqbaylit, MIT.
 
 ## accordeur-atelier
 
