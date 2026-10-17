@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | decoupe-atelier | [repo](https://github.com/salimadour31-boop/decoupe-atelier) | [démo](https://salimadour31-boop.github.io/decoupe-atelier/) |
 | 2026-10-17 | specimen-atelier | [repo](https://github.com/salimadour31-boop/specimen-atelier) | [démo](https://salimadour31-boop.github.io/specimen-atelier/) |
 | 2026-10-17 | animation-atelier | [repo](https://github.com/salimadour31-boop/animation-atelier) | [démo](https://salimadour31-boop.github.io/animation-atelier/) |
 | 2026-10-17 | glitch-atelier | [repo](https://github.com/salimadour31-boop/glitch-atelier) | [démo](https://salimadour31-boop.github.io/glitch-atelier/) |
@@ -49,6 +50,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## decoupe-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/decoupe-atelier
+- **Démo** : https://salimadour31-boop.github.io/decoupe-atelier/
+- **Résumé** :
+  Découpeur d'échantillons (sample chopper) 100 % navigateur pour beatmakers : fichier local glissé-déposé (fréquence d'échantillonnage conservée) ou boucle de démo synthétisée, forme d'onde zoomable et tactile avec tête de lecture.
+  Découpe par transitoires (sensibilité, écart minimal), grille BPM (estimation du tempo), N parts égales ou marqueurs manuels déplaçables, aimantation aux passages par zéro ; 16 pads 4×4 jouables au clic, au doigt, au clavier ou en MIDI, réglages par tranche (gain, normalisation, inversion, fondus, hauteur).
+  Exports ZIP de WAV 16/24 bits, WAV seul, MIDI prêt pour FL Studio (C3 ou C5), marqueurs CSV/JSON, projet JSON ; FR/EN/Taqbaylit, hors ligne (PWA), MIT, 44 tests (node:test + Playwright) en CI.
 
 ## specimen-atelier
 
