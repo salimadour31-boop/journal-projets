@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | synthe-atelier | [repo](https://github.com/salimadour31-boop/synthe-atelier) | [démo](https://salimadour31-boop.github.io/synthe-atelier/) |
 | 2026-10-17 | scenario-atelier | [repo](https://github.com/salimadour31-boop/scenario-atelier) | [démo](https://salimadour31-boop.github.io/scenario-atelier/) |
 | 2026-10-17 | maquette-atelier | [repo](https://github.com/salimadour31-boop/maquette-atelier) | [démo](https://salimadour31-boop.github.io/maquette-atelier/) |
 | 2026-10-17 | vecteur-atelier | [repo](https://github.com/salimadour31-boop/vecteur-atelier) | [démo](https://salimadour31-boop.github.io/vecteur-atelier/) |
@@ -38,6 +39,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## synthe-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/synthe-atelier
+- **Démo** : https://salimadour31-boop.github.io/synthe-atelier/
+- **Résumé** :
+  Synthétiseur soustractif polyphonique 100 % navigateur (Web Audio, aucun échantillon) : 2 oscillateurs (scie, carrée, triangle, sinus, bruit) avec unisson jusqu'à 7 voix, sub-oscillateur, filtre 12/24 dB passe-bas/haut/bande/coupe-bande avec ADSR, suivi du clavier et vélocité, ADSR d'amplitude, LFO (dont S&H) vers hauteur/filtre/volume/panoramique, glissé, modes poly 1–16 voix / mono / legato.
+  Arpégiateur synchronisé (6 motifs, 1/4 à 1/32 avec triolets, 1–4 octaves, gate, latch), saturation, chorus, écho ping-pong calé sur le BPM, réverbération à réponse impulsionnelle générée par le code, limiteur ; clavier à l'écran multi-touch avec vélocité et glissando, clavier d'ordinateur AZERTY/QWERTY/QWERTZ, Web MIDI (pédale, molette, pitch-bend, canal).
+  21 préréglages d'usine originaux (nappes, leads, basses, drones cinéma, cuivres, cloches…), préréglages perso, JSON, lien partageable ; oscilloscope, spectre, courbes filtre/ADSR ; enregistrement WAV et rendu hors ligne note/accord en WAV 16/24 bits (encodeur maison) ; 24 tests unitaires + 38 Playwright ; FR/EN/Taqbaylit + tifinagh, MIT.
 
 ## scenario-atelier
 
