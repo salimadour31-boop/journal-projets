@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | vecteur-atelier | [repo](https://github.com/salimadour31-boop/vecteur-atelier) | [démo](https://salimadour31-boop.github.io/vecteur-atelier/) |
 | 2026-10-17 | soleil-atelier | [repo](https://github.com/salimadour31-boop/soleil-atelier) | [démo](https://salimadour31-boop.github.io/soleil-atelier/) |
 | 2026-10-17 | spectre-atelier | [repo](https://github.com/salimadour31-boop/spectre-atelier) | [démo](https://salimadour31-boop.github.io/spectre-atelier/) |
 | 2026-10-17 | grille-atelier | [repo](https://github.com/salimadour31-boop/grille-atelier) | [démo](https://salimadour31-boop.github.io/grille-atelier/) |
@@ -35,6 +36,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## vecteur-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/vecteur-atelier
+- **Démo** : https://salimadour31-boop.github.io/vecteur-atelier/
+- **Résumé** :
+  Vectoriseur d'images 100 % navigateur (PNG, JPG, WebP, GIF, BMP → SVG) : fichier, glisser-déposer ou collage, démos dessinées par le code ; modes noir & blanc (Otsu), couleurs 2–32 (k-moyennes++ pondérées ou coupe médiane, fusion ΔE, nettoyage de l'anticrénelage, palette modifiable/masquable/verrouillable), niveaux de gris, suppression du fond.
+  Moteur original (sans code de potrace ni d'autre traceur) dans un Web Worker avec progression et annulation : suivi de contours sur arêtes de pixels, angles vifs, Douglas–Peucker, Bézier cubiques par moindres carrés, pixels exacts, ligne centrale (Zhang–Suen) ; calques empilés ou découpés, contours seuls.
+  Aperçu curseur / côte à côte avec zoom, contours et nœuds ; 6 préréglages ; exports SVG en calques (un groupe par couleur nommé en hex) ou optimisé, PNG 1–8×, palette JSON/.gpl, réglages JSON, lien partageable ; FR/EN/Taqbaylit + tifinagh, MIT.
 
 ## soleil-atelier
 
