@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | glitch-atelier | [repo](https://github.com/salimadour31-boop/glitch-atelier) | [démo](https://salimadour31-boop.github.io/glitch-atelier/) |
 | 2026-10-17 | moodboard-atelier | [repo](https://github.com/salimadour31-boop/moodboard-atelier) | [démo](https://salimadour31-boop.github.io/moodboard-atelier/) |
 | 2026-10-17 | claquette-atelier | [repo](https://github.com/salimadour31-boop/claquette-atelier) | [démo](https://salimadour31-boop.github.io/claquette-atelier/) |
 | 2026-10-17 | cinemetrie-atelier | [repo](https://github.com/salimadour31-boop/cinemetrie-atelier) | [démo](https://salimadour31-boop.github.io/cinemetrie-atelier/) |
@@ -46,6 +47,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## glitch-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/glitch-atelier
+- **Démo** : https://salimadour31-boop.github.io/glitch-atelier/
+- **Résumé** :
+  Studio de glitch art et de pixel sorting 100 % navigateur : pile d'effets non destructive (dosage, 8 modes de fusion, réordonnable) avec 13 effets écrits de zéro — pixel sorting (luminosité/teinte/saturation, H/V/angle, seuils), RVB, aberration chromatique, tranches/blocs, corruption JPEG (DCT simulée ou vrais octets), VHS, CRT, onde, mosaïque, postérisation/bit-crush, grain, miroir/kaléidoscope, fonte.
+  Graine reproductible, 11 préréglages (VHS, Datamosh, Sorting doux, Cyber, Néon CRT…), rendu dans un Web Worker, aperçu réduit et export pleine résolution, comparateur avant/après, annuler/rétablir, zoom 100 %.
+  Exports PNG/JPG, boucle WebM (MediaRecorder), réglages JSON et lien de partage (#g=…) ; FR/EN/Taqbaylit + tifinagh ; 25 tests moteur + 378 vérifications Playwright (ordinateur + mobile), MIT.
 
 ## moodboard-atelier
 
