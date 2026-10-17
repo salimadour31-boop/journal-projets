@@ -489,3 +489,12 @@ Compte-rendu des outils open source publiés.
   Plugin MIDI VST3/AU (JUCE 8) qui transforme chaque note en accord d'une gamme : majeur, mineur, Hijaz, Nahawand, Bayati, Kurd, Saba, double harmonique (12-TET).
   Arpégiateur synchronisé au tempo de l'hôte, humanisation de la vélocité et du timing.
   Utilisable dans FL Studio via Patcher ou ports MIDI ; installeur Windows + paquet macOS, AGPLv3.
+
+## police-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/police-atelier
+- **Démo** : https://salimadour31-boop.github.io/police-atelier/
+- **Résumé** :
+  Outil web 100 % local qui transforme une photo de lettres (planche modèle ou alphabet libre) en police OTF installable, plus WOFF et projet JSON.
+  Nettoyage, segmentation, vectorisation maison (marching squares + Bézier), analyse de structure, glyphes manquants dérivés ou générés (signalés).
+  Latin, français, kabyle et arabe (formes positionnelles, GSUB init/medi/fina + lam-alif) ; UI FR/EN/Taqbaylit (+ tifinagh), licence MIT.
