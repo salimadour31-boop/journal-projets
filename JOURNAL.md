@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | bruitage-atelier | [repo](https://github.com/salimadour31-boop/bruitage-atelier) | [démo](https://salimadour31-boop.github.io/bruitage-atelier/) |
 | 2026-10-17 | onde-atelier | [repo](https://github.com/salimadour31-boop/onde-atelier) | [démo](https://salimadour31-boop.github.io/onde-atelier/) |
 | 2026-10-16 | accordeur-atelier | [repo](https://github.com/salimadour31-boop/accordeur-atelier) | [démo](https://salimadour31-boop.github.io/accordeur-atelier/) |
 | 2026-10-16 | studio-musique-ia | [repo](https://github.com/salimadour31-boop/studio-musique-ia) | [démo](https://salimadour31-boop.github.io/studio-musique-ia/) |
@@ -26,6 +27,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## bruitage-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/bruitage-atelier
+- **Démo** : https://salimadour31-boop.github.io/bruitage-atelier/
+- **Résumé** :
+  Générateur d'effets sonores cinématiques pour vidéastes, 100 % synthétisés en Web Audio dans le navigateur (aucun échantillon, aucune bibliothèque).
+  12 catégories (impact, braam, riser, sub drop, whoosh, swell inversé, drone, glitch, cœur, tic-tac, clic UI, tonnerre), 27 préréglages, 10 réglages, graine, Aléatoire / Variation, réverb à IR synthétisée.
+  Forme d'onde, spectre, crête-mètre ; export WAV 16/24 bits 44,1/48 kHz mono/stéréo, lot de variations en ZIP, réglages JSON, favoris, FR/EN/Taqbaylit, MIT.
 
 ## onde-atelier
 
