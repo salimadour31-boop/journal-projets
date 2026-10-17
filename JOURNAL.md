@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | atelier-instruments | [repo](https://github.com/salimadour31-boop/atelier-instruments) | [release v0.1.0](https://github.com/salimadour31-boop/atelier-instruments/releases/tag/v0.1.0) |
 | 2026-10-17 | voix-juste | [repo](https://github.com/salimadour31-boop/voix-juste) | [releases](https://github.com/salimadour31-boop/voix-juste/releases) |
 | 2026-10-17 | synthe-atelier | [repo](https://github.com/salimadour31-boop/synthe-atelier) | [démo](https://salimadour31-boop.github.io/synthe-atelier/) |
 | 2026-10-17 | scenario-atelier | [repo](https://github.com/salimadour31-boop/scenario-atelier) | [démo](https://salimadour31-boop.github.io/scenario-atelier/) |
@@ -40,6 +41,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## atelier-instruments
+
+- **Dépôt** : https://github.com/salimadour31-boop/atelier-instruments
+- **Release** : https://github.com/salimadour31-boop/atelier-instruments/releases/tag/v0.1.0
+- **Résumé** :
+  Trois instruments virtuels libres au son acoustique pour FL Studio : Atelier Piano (Salamander, CC-BY 3.0), Atelier Batterie (GM, mixeur par élément, Virtuosity Drums CC0), Atelier Cordes (VSCO 2 CE, CC0).
+  Moteur d'échantillonnage maison type SFZ (couches de vélocité, round-robin, choke, ADSR, boucles, sustain, réverb) sur JUCE 8, VST3 Windows x64 + VST3/AU macOS universel (Intel + Apple Silicon).
+  CI GitHub Actions : installateur Inno Setup, .pkg macOS, pluginval, auval et rendus audio hors ligne ; README FR/EN/Taqbaylit, code AGPLv3.
 
 ## voix-juste
 
