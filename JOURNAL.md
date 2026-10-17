@@ -462,3 +462,30 @@ Compte-rendu des outils open source publiés.
 - **Dépôt** : https://github.com/salimadour31-boop/cadre-cinema
 - **Démo** : https://salimadour31-boop.github.io/cadre-cinema/ (activer GitHub Pages : Settings > Pages > Branch main / root)
 - **Résumé** : Outil navigateur pour appliquer des ratios cinématiques (letterbox ou crop) à des images. Presets Scope/Flat, couleur de barres, export PNG. Multilingue FR/EN/TZM, 100% local, MIT.
+
+## corde-pincee
+
+- **Dépôt** : https://github.com/salimadour31-boop/corde-pincee
+- **Release** : https://github.com/salimadour31-boop/corde-pincee/releases/tag/v0.1.0
+- **Résumé** :
+  Instrument VST3/AU (JUCE 8) de corde pincée façon oud/mandole, synthèse Karplus-Strong, 8 voix, accordage précis.
+  Brillance, amortissement, position de pincement, réverbe, résonance de caisse, pitch-bend, vélocité expressive.
+  Installeur Windows x64 + paquet macOS universel, pluginval en CI, guide débutant en français, AGPLv3.
+
+## sampler-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/sampler-atelier
+- **Release** : https://github.com/salimadour31-boop/sampler-atelier/releases/tag/v0.1.0
+- **Résumé** :
+  Échantillonneur VST3/AU (JUCE 8) à 4 couches avec glisser-déposer de WAV, chargé en arrière-plan et échangé sans verrou.
+  Zones de notes/vélocité, round robin par groupe, ADSR, boucle optionnelle, 16 voix.
+  Installeur Windows x64 + paquet macOS universel, pluginval en CI, guide débutant en français, AGPLv3.
+
+## arrangeur-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/arrangeur-atelier
+- **Release** : https://github.com/salimadour31-boop/arrangeur-atelier/releases/tag/v0.1.0
+- **Résumé** :
+  Plugin MIDI VST3/AU (JUCE 8) qui transforme chaque note en accord d'une gamme : majeur, mineur, Hijaz, Nahawand, Bayati, Kurd, Saba, double harmonique (12-TET).
+  Arpégiateur synchronisé au tempo de l'hôte, humanisation de la vélocité et du timing.
+  Utilisable dans FL Studio via Patcher ou ports MIDI ; installeur Windows + paquet macOS, AGPLv3.
