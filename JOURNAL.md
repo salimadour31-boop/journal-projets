@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | soleil-atelier | [repo](https://github.com/salimadour31-boop/soleil-atelier) | [démo](https://salimadour31-boop.github.io/soleil-atelier/) |
 | 2026-10-17 | spectre-atelier | [repo](https://github.com/salimadour31-boop/spectre-atelier) | [démo](https://salimadour31-boop.github.io/spectre-atelier/) |
 | 2026-10-17 | grille-atelier | [repo](https://github.com/salimadour31-boop/grille-atelier) | [démo](https://salimadour31-boop.github.io/grille-atelier/) |
 | 2026-10-17 | oreille-atelier | [repo](https://github.com/salimadour31-boop/oreille-atelier) | [démo](https://salimadour31-boop.github.io/oreille-atelier/) |
@@ -34,6 +35,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## soleil-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/soleil-atelier
+- **Démo** : https://salimadour31-boop.github.io/soleil-atelier/
+- **Résumé** :
+  Planificateur de lumière pour photo, vidéo et cinéma : heure dorée, heure bleue, aubes/crépuscules, lever/coucher avec azimut, lune (phase, lever/coucher), ombres.
+  Carte du ciel avec course du jour, solstices, champ de la caméra (soleil dans le cadre ?), frise 24 h, graphique annuel, recherche d'alignements sur 12 mois.
+  47 villes + coordonnées + fuseaux IANA, exports PNG/CSV/ICS/JSON, lien partageable ; calculs NOAA/Meeus testés contre astral (≤ 2,5 min). FR/EN/Taqbaylit + tifinagh, MIT.
 
 ## spectre-atelier
 
