@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | bandeau-atelier | [repo](https://github.com/salimadour31-boop/bandeau-atelier) | [démo](https://salimadour31-boop.github.io/bandeau-atelier/) |
 | 2026-10-17 | generique-atelier | [repo](https://github.com/salimadour31-boop/generique-atelier) | [démo](https://salimadour31-boop.github.io/generique-atelier/) |
 | 2026-10-17 | bruitage-atelier | [repo](https://github.com/salimadour31-boop/bruitage-atelier) | [démo](https://salimadour31-boop.github.io/bruitage-atelier/) |
 | 2026-10-17 | onde-atelier | [repo](https://github.com/salimadour31-boop/onde-atelier) | [démo](https://salimadour31-boop.github.io/onde-atelier/) |
@@ -28,6 +29,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## bandeau-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/bandeau-atelier
+- **Démo** : https://salimadour31-boop.github.io/bandeau-atelier/
+- **Résumé** :
+  Générateur de bandeaux (lower thirds / name supers) pour vidéastes et YouTubers, 100 % dans le navigateur (canvas), sans installation ni traceur.
+  Nom / rôle / lieu / logo local, 4 dispositions originales (barre, verre, badge, plaque bipolaire), 6 thèmes, animation entrée/tenue/sortie, polices OFL dont arabe (RTL) et tifinagh.
+  Formats 16:9, 9:16, 1:1, 4:5, 2.39:1 ; 720p/1080p/4K ; export PNG transparent, SVG, WebM, JSON ; FR/EN/Taqbaylit, MIT.
 
 ## generique-atelier
 
