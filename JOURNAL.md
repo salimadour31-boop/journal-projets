@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | forme-atelier | [repo](https://github.com/salimadour31-boop/forme-atelier) | [démo](https://salimadour31-boop.github.io/forme-atelier/) |
 | 2026-10-17 | arrangeur-midi | [repo](https://github.com/salimadour31-boop/arrangeur-midi) | [release v0.1.0](https://github.com/salimadour31-boop/arrangeur-midi/releases/tag/v0.1.0) |
 | 2026-10-17 | atelier-instruments | [repo](https://github.com/salimadour31-boop/atelier-instruments) | [release v0.1.0](https://github.com/salimadour31-boop/atelier-instruments/releases/tag/v0.1.0) |
 | 2026-10-17 | voix-juste | [repo](https://github.com/salimadour31-boop/voix-juste) | [releases](https://github.com/salimadour31-boop/voix-juste/releases) |
@@ -42,6 +43,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## forme-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/forme-atelier
+- **Démo** : https://salimadour31-boop.github.io/forme-atelier/
+- **Résumé** :
+  Générateur 100 % navigateur de formes organiques et de fonds SVG : blob (Catmull-Rom → Bézier, anneaux), vague (lisse / anguleuse / escalier), vagues en couches avec dégradé OKLab, topographie (marching squares sur bruit fractal à graine, bandes colorées), scène de formes éparpillées avec flou, low-poly et sommets.
+  Graine reproductible avec cadenas et « Surprise », palette 2–8 couleurs (11 palettes originales, harmonies au hasard), remplissage uni / dégradé linéaire ou radial, contour, fond ou transparence, formats 16:9, 1:1, 9:16, 4:5, A4, bannière, libre, rotation et miroirs, annuler / rétablir, favoris.
+  Exports SVG optimisé (fichier ou code), PNG 1× / 2× / 4× transparent, CSS data-URI, JSON et lien de partage qui restaure la forme exacte ; 28 tests moteur + 50 Playwright (1280×800 et 390×844) ; FR/EN/Taqbaylit + tifinagh, thème clair/sombre, MIT.
 
 ## atelier-instruments
 
