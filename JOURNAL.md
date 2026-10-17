@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | spectre-atelier | [repo](https://github.com/salimadour31-boop/spectre-atelier) | [démo](https://salimadour31-boop.github.io/spectre-atelier/) |
 | 2026-10-17 | grille-atelier | [repo](https://github.com/salimadour31-boop/grille-atelier) | [démo](https://salimadour31-boop.github.io/grille-atelier/) |
 | 2026-10-17 | oreille-atelier | [repo](https://github.com/salimadour31-boop/oreille-atelier) | [démo](https://salimadour31-boop.github.io/oreille-atelier/) |
 | 2026-10-17 | gammes-atelier | [repo](https://github.com/salimadour31-boop/gammes-atelier) | [démo](https://salimadour31-boop.github.io/gammes-atelier/) |
@@ -33,6 +34,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## spectre-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/spectre-atelier
+- **Démo** : https://salimadour31-boop.github.io/spectre-atelier/
+- **Résumé** :
+  Analyseur de spectre et spectrogramme audio, 100 % navigateur : fichier local (glisser-déposer), signal de démo synthétisé (accord, balayage, bruit, arpège) ou micro en direct ; STFT maison (FFT 512–16384, Hann/Hamming/Blackman-Harris, recouvrement 0–87,5 %), échelles lin/log/mel, 7 palettes dont Oasis (daltonisme).
+  Lecture au survol (temps, fréquence, note la plus proche ± cents, niveau dBFS), zoom/défilement temps et fréquence, grille des notes et clavier de piano (La4 réglable) ; spectre moyen ou à la tête de lecture avec tableau des pics nommés ; lecture en boucle d'une sélection, analyse Mid/Gauche/Droite/Side.
+  Chromagramme + tonalité estimée (Krumhansl–Kessler), vectorscope et corrélation de phase ; export PNG annoté jusqu'à 4096 × 2048, CSV des pics et du spectre, JSON, lien partageable ; rien n'est envoyé ; FR/EN/Taqbaylit + tifinagh, MIT.
 
 ## grille-atelier
 
