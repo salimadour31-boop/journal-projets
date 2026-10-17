@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | sonie-atelier | [repo](https://github.com/salimadour31-boop/sonie-atelier) | [démo](https://salimadour31-boop.github.io/sonie-atelier/) |
 | 2026-10-17 | bandeau-atelier | [repo](https://github.com/salimadour31-boop/bandeau-atelier) | [démo](https://salimadour31-boop.github.io/bandeau-atelier/) |
 | 2026-10-17 | generique-atelier | [repo](https://github.com/salimadour31-boop/generique-atelier) | [démo](https://salimadour31-boop.github.io/generique-atelier/) |
 | 2026-10-17 | bruitage-atelier | [repo](https://github.com/salimadour31-boop/bruitage-atelier) | [démo](https://salimadour31-boop.github.io/bruitage-atelier/) |
@@ -29,6 +30,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## sonie-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/sonie-atelier
+- **Démo** : https://salimadour31-boop.github.io/sonie-atelier/
+- **Résumé** :
+  Mesure de loudness 100 % navigateur (rien n'est envoyé) : LUFS intégré, momentané, court terme, LRA et true peak selon ITU-R BS.1770-4 / EBU R128, vérifiés par tests et recoupés avec FFmpeg.
+  Montre ce que Spotify, Apple Music, YouTube, TIDAL, Deezer, podcast et TV feront du morceau (gain, niveau joué, crête), lecture « comme la plateforme » et A/B au même niveau avec une référence.
+  Mode album avec export CSV, courbe dans le temps, diagnostic en clair (écrêtage, phase, DC, master écrasé), rapport PNG/JSON, FR/EN/Taqbaylit, MIT.
 
 ## bandeau-atelier
 
