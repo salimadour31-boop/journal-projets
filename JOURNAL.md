@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-17 | voix-juste | [repo](https://github.com/salimadour31-boop/voix-juste) | [releases](https://github.com/salimadour31-boop/voix-juste/releases) |
 | 2026-10-17 | synthe-atelier | [repo](https://github.com/salimadour31-boop/synthe-atelier) | [démo](https://salimadour31-boop.github.io/synthe-atelier/) |
 | 2026-10-17 | scenario-atelier | [repo](https://github.com/salimadour31-boop/scenario-atelier) | [démo](https://salimadour31-boop.github.io/scenario-atelier/) |
 | 2026-10-17 | maquette-atelier | [repo](https://github.com/salimadour31-boop/maquette-atelier) | [démo](https://salimadour31-boop.github.io/maquette-atelier/) |
@@ -39,6 +40,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## voix-juste
+
+- **Dépôt** : https://github.com/salimadour31-boop/voix-juste
+- **Téléchargement** : https://github.com/salimadour31-boop/voix-juste/releases (VST3/CLAP Windows x64, macOS universel, Linux + LV2)
+- **Résumé** :
+  Plugin VST3/CLAP libre (MIT, cadre DPF sous licence ISC) d'« auto-tune intelligent » pour FL Studio : hauteur de la voix par YIN, tonalité/accords/mélodie détectés depuis la musique en sidechain (chroma + Krumhansl-Kessler), mélodie de référence par MIDI.
+  Choix de note « intelligent » (référence, sinon gamme pondérée par les accords), correction TD-PSOLA temps réel qui préserve les formants, vitesse, naturel/vibrato, robot, formants, mélange ; latence annoncée à l'hôte (~40 ms).
+  142 tests DSP hors ligne, pluginval niveau 10 réussi, CI Windows/macOS/Linux avec release ; interface FR/EN/Taqbaylit ; pas encore essayé dans FL Studio sur un vrai PC.
 
 ## synthe-atelier
 
