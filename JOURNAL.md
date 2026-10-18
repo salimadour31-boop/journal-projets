@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-18 | glyphe-atelier | [repo](https://github.com/salimadour31-boop/glyphe-atelier) | [démo](https://salimadour31-boop.github.io/glyphe-atelier/) |
 | 2026-10-18 | composition-atelier | [repo](https://github.com/salimadour31-boop/composition-atelier) | [démo](https://salimadour31-boop.github.io/composition-atelier/) |
 | 2026-10-17 | decoupe-atelier | [repo](https://github.com/salimadour31-boop/decoupe-atelier) | [démo](https://salimadour31-boop.github.io/decoupe-atelier/) |
 | 2026-10-17 | specimen-atelier | [repo](https://github.com/salimadour31-boop/specimen-atelier) | [démo](https://salimadour31-boop.github.io/specimen-atelier/) |
@@ -52,6 +53,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
 
+## glyphe-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/glyphe-atelier
+- **Démo** : https://salimadour31-boop.github.io/glyphe-atelier/
+- **Résumé** :
+  Créateur de polices par dessin libre dans le navigateur : grille de caractères (latin + tifinagh), canvas avec guides de métriques (baseline, x-height, capitales), stylo/gomme, annuler.
+  Aperçu de texte en direct, export PNG/SVG par glyphe et projet JSON complet. Multilingue FR/EN/Taqbaylit, thème clair/sombre.
+  100 % local, rien n'est envoyé. Complément de police-atelier (OTF depuis image). MIT.
+
 ## composition-atelier
 
 - **Dépôt** : https://github.com/salimadour31-boop/composition-atelier
@@ -60,12 +70,3 @@ Compte-rendu des outils open source publiés.
   Outil 100 % navigateur pour appliquer des guides de composition (règle des tiers, nombre d'or/Phi, centre, diagonales) sur des images.
   Idéal pour graphistes, photographes et cinéastes. Opacité, couleur et épaisseur ajustables, thème clair/sombre, multilingue FR/EN/Taqbaylit.
   Export PNG avec ou sans guides. Rien n'est envoyé au serveur. MIT.
-
-## decoupe-atelier
-
-- **Dépôt** : https://github.com/salimadour31-boop/decoupe-atelier
-- **Démo** : https://salimadour31-boop.github.io/decoupe-atelier/
-- **Résumé** :
-  Découpeur d'échantillons (sample chopper) 100 % navigateur pour beatmakers : fichier local glissé-déposé (fréquence d'échantillonnage conservée) ou boucle de démo synthétisée, forme d'onde zoomable et tactile avec tête de lecture.
-  Découpe par transitoires (sensibilité, écart minimal), grille BPM (estimation du tempo), N parts égales ou marqueurs manuels déplaçables, aimantation aux passages par zéro ; 16 pads 4×4 jouables au clic, au doigt, au clavier ou en MIDI, réglages par tranche (gain, normalisation, inversion, fondus, hauteur).
-  Exports ZIP de WAV 16/24 bits, WAV seul, MIDI prêt pour FL Studio (C3 ou C5), marqueurs CSV/JSON, projet JSON ; FR/EN/Taqbaylit, hors ligne (PWA), MIT, 44 tests (node:test + Playwright) en CI.
