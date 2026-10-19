@@ -70,3 +70,12 @@ Compte-rendu des outils open source publiés.
   Outil 100 % navigateur pour appliquer des guides de composition (règle des tiers, nombre d'or/Phi, centre, diagonales) sur des images.
   Idéal pour graphistes, photographes et cinéastes. Opacité, couleur et épaisseur ajustables, thème clair/sombre, multilingue FR/EN/Taqbaylit.
   Export PNG avec ou sans guides. Rien n'est envoyé au serveur. MIT.
+
+## ostad-riyadiyat
+
+- **Dépôt** : https://github.com/salimadour31-boop/ostad-riyadiyat
+- **Démo** : https://salimadour31-boop.github.io/ostad-riyadiyat/
+- **Résumé** :
+  PWA gratuite, hors ligne et installable pour les professeurs de maths du cycle moyen algérien (1AM-4AM), en arabe (RTL) et en français.
+  Programme 2e génération par niveau/domaine/séquence, générateur de fiches (مذكرة) imprimables et en Word, progression annuelle sur le calendrier 2026-2027.
+  Exercices originaux et générateurs (KaTeX local), sujets devoir/composition/BEM avec barème sur 20, carnet de notes, cahier de textes, données locales, licence MIT.
