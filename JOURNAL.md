@@ -79,3 +79,6 @@ Compte-rendu des outils open source publiés.
   PWA gratuite, hors ligne et installable pour les professeurs de maths du cycle moyen algérien (1AM-4AM), en arabe (RTL) et en français.
   Programme 2e génération par niveau/domaine/séquence, générateur de fiches (مذكرة) imprimables et en Word, progression annuelle sur le calendrier 2026-2027.
   Exercices originaux et générateurs (KaTeX local), sujets devoir/composition/BEM avec barème sur 20, carnet de notes, cahier de textes, données locales, licence MIT.
+- **v2 (19/10/2026)** : banque complète (172 leçons × 6 exercices originaux sur 3 niveaux, solutions détaillées, barème, variantes vérifiées automatiquement), 30 situations de départ + 30 d'intégration + 6 problèmes type BEM ;
+  outil figures SVG, export Word avec équations natives (OMML) et figures, fiches préremplies, diagnostic/remédiation, planning avec fériés et examens, bulletins et PV du conseil ;
+  recherche mise à jour avec niveaux de confiance (volume horaire 2026-2027 : correspondance n° 470) ; tests Node + Chrome desktop/mobile verts, en local et sur le site publié.
