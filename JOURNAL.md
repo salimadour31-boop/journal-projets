@@ -82,3 +82,4 @@ Compte-rendu des outils open source publiés.
 - **v2 (19/10/2026)** : banque complète (172 leçons × 6 exercices originaux sur 3 niveaux, solutions détaillées, barème, variantes vérifiées automatiquement), 30 situations de départ + 30 d'intégration + 6 problèmes type BEM ;
   outil figures SVG, export Word avec équations natives (OMML) et figures, fiches préremplies, diagnostic/remédiation, planning avec fériés et examens, bulletins et PV du conseil ;
   recherche mise à jour avec niveaux de confiance (volume horaire 2026-2027 : correspondance n° 470) ; tests Node + Chrome desktop/mobile verts, en local et sur le site publié.
+- 2026-10-19 22:14 (Africa/Algiers) — ostad-riyadiyat v2.1.0 : bouton Installer AR/FR, installer.html + QR local, APK TWA (release v2.1.0), raccourcis Windows .url/.bat, assetlinks sur salimadour31-boop.github.io. MSIX non fait (signature).
