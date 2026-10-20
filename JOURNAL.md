@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-20 | rythme-machine | [repo](https://github.com/salimadour31-boop/rythme-machine) | [démo](https://salimadour31-boop.github.io/rythme-machine/) |
 | 2026-10-18 | glyphe-atelier | [repo](https://github.com/salimadour31-boop/glyphe-atelier) | [démo](https://salimadour31-boop.github.io/glyphe-atelier/) |
 | 2026-10-18 | composition-atelier | [repo](https://github.com/salimadour31-boop/composition-atelier) | [démo](https://salimadour31-boop.github.io/composition-atelier/) |
 | 2026-10-17 | decoupe-atelier | [repo](https://github.com/salimadour31-boop/decoupe-atelier) | [démo](https://salimadour31-boop.github.io/decoupe-atelier/) |
@@ -52,6 +53,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## rythme-machine
+
+- **Dépôt** : https://github.com/salimadour31-boop/rythme-machine
+- **Démo** : https://salimadour31-boop.github.io/rythme-machine/
+- **Résumé** :
+  Boîte à rythme 100 % navigateur : séquenceur 16 pas, 3 pistes (kick, snare, hi-hat) avec sons synthétisés via Web Audio API.
+  Contrôle BPM, lecture avec indicateur visuel, export JSON du motif. Multilingue FR/EN/Taqbaylit, thème sombre.
+  Aucune installation, aucun envoi de données. Licence MIT.
 
 ## glyphe-atelier
 
