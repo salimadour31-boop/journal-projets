@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-21 | texture-atelier | [repo](https://github.com/salimadour31-boop/texture-atelier) | [démo](https://salimadour31-boop.github.io/texture-atelier/) |
 | 2026-10-20 | rythme-machine | [repo](https://github.com/salimadour31-boop/rythme-machine) | [démo](https://salimadour31-boop.github.io/rythme-machine/) |
 | 2026-10-18 | glyphe-atelier | [repo](https://github.com/salimadour31-boop/glyphe-atelier) | [démo](https://salimadour31-boop.github.io/glyphe-atelier/) |
 | 2026-10-18 | composition-atelier | [repo](https://github.com/salimadour31-boop/composition-atelier) | [démo](https://salimadour31-boop.github.io/composition-atelier/) |
@@ -53,6 +54,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## texture-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/texture-atelier
+- **Démo** : https://salimadour31-boop.github.io/texture-atelier/
+- **Résumé** :
+  Générateur de textures procédurales (bruit, grain film, papier, tissu, nuages) 100 % navigateur.
+  Contrôles échelle/contraste/graine, export PNG, multilingue FR/EN/Taqbaylit, thème sombre.
+  Idéal pour overlays vidéo et arrière-plans graphiques. Rien n'est envoyé. MIT.
 
 ## rythme-machine
 
