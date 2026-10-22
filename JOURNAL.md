@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-22 | grain-cinema | [repo](https://github.com/salimadour31-boop/grain-cinema) | [démo](https://salimadour31-boop.github.io/grain-cinema/) |
 | 2026-10-21 | texture-atelier | [repo](https://github.com/salimadour31-boop/texture-atelier) | [démo](https://salimadour31-boop.github.io/texture-atelier/) |
 | 2026-10-20 | rythme-machine | [repo](https://github.com/salimadour31-boop/rythme-machine) | [démo](https://salimadour31-boop.github.io/rythme-machine/) |
 | 2026-10-18 | glyphe-atelier | [repo](https://github.com/salimadour31-boop/glyphe-atelier) | [démo](https://salimadour31-boop.github.io/glyphe-atelier/) |
@@ -55,6 +56,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
 
+## grain-cinema
+
+- **Dépôt** : https://github.com/salimadour31-boop/grain-cinema
+- **Démo** : https://salimadour31-boop.github.io/grain-cinema/
+- **Résumé** :
+  Outil 100 % navigateur pour ajouter un grain de film cinématique sur images.
+  Contrôles intensité, taille et mélange couleur/mono, aperçu live, export PNG.
+  Multilingue FR/EN/Taqbaylit, thème sombre. Aucune donnée envoyée. MIT.
+
 ## texture-atelier
 
 - **Dépôt** : https://github.com/salimadour31-boop/texture-atelier
@@ -81,25 +91,3 @@ Compte-rendu des outils open source publiés.
   Créateur de polices par dessin libre dans le navigateur : grille de caractères (latin + tifinagh), canvas avec guides de métriques (baseline, x-height, capitales), stylo/gomme, annuler.
   Aperçu de texte en direct, export PNG/SVG par glyphe et projet JSON complet. Multilingue FR/EN/Taqbaylit, thème clair/sombre.
   100 % local, rien n'est envoyé. Complément de police-atelier (OTF depuis image). MIT.
-
-## composition-atelier
-
-- **Dépôt** : https://github.com/salimadour31-boop/composition-atelier
-- **Démo** : https://salimadour31-boop.github.io/composition-atelier/
-- **Résumé** :
-  Outil 100 % navigateur pour appliquer des guides de composition (règle des tiers, nombre d'or/Phi, centre, diagonales) sur des images.
-  Idéal pour graphistes, photographes et cinéastes. Opacité, couleur et épaisseur ajustables, thème clair/sombre, multilingue FR/EN/Taqbaylit.
-  Export PNG avec ou sans guides. Rien n'est envoyé au serveur. MIT.
-
-## ostad-riyadiyat
-
-- **Dépôt** : https://github.com/salimadour31-boop/ostad-riyadiyat
-- **Démo** : https://salimadour31-boop.github.io/ostad-riyadiyat/
-- **Résumé** :
-  PWA gratuite, hors ligne et installable pour les professeurs de maths du cycle moyen algérien (1AM-4AM), en arabe (RTL) et en français.
-  Programme 2e génération par niveau/domaine/séquence, générateur de fiches (مذكرة) imprimables et en Word, progression annuelle sur le calendrier 2026-2027.
-  Exercices originaux et générateurs (KaTeX local), sujets devoir/composition/BEM avec barème sur 20, carnet de notes, cahier de textes, données locales, licence MIT.
-- **v2 (19/10/2026)** : banque complète (172 leçons × 6 exercices originaux sur 3 niveaux, solutions détaillées, barème, variantes vérifiées automatiquement), 30 situations de départ + 30 d'intégration + 6 problèmes type BEM ;
-  outil figures SVG, export Word avec équations natives (OMML) et figures, fiches préremplies, diagnostic/remédiation, planning avec fériés et examens, bulletins et PV du conseil ;
-  recherche mise à jour avec niveaux de confiance (volume horaire 2026-2027 : correspondance n° 470) ; tests Node + Chrome desktop/mobile verts, en local et sur le site publié.
-- 2026-10-19 22:14 (Africa/Algiers) — ostad-riyadiyat v2.1.0 : bouton Installer AR/FR, installer.html + QR local, APK TWA (release v2.1.0), raccourcis Windows .url/.bat, assetlinks sur salimadour31-boop.github.io. MSIX non fait (signature).
