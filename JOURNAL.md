@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-24 | look-cinema | [repo](https://github.com/salimadour31-boop/look-cinema) | [démo](https://salimadour31-boop.github.io/look-cinema/) |
 | 2026-10-23 | drone-cinema | [repo](https://github.com/salimadour31-boop/drone-cinema) | [démo](https://salimadour31-boop.github.io/drone-cinema/) |
 | 2026-10-22 | grain-cinema | [repo](https://github.com/salimadour31-boop/grain-cinema) | [démo](https://salimadour31-boop.github.io/grain-cinema/) |
 | 2026-10-21 | texture-atelier | [repo](https://github.com/salimadour31-boop/texture-atelier) | [démo](https://salimadour31-boop.github.io/texture-atelier/) |
@@ -56,6 +57,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## look-cinema
+
+- **Dépôt** : https://github.com/salimadour31-boop/look-cinema
+- **Démo** : https://salimadour31-boop.github.io/look-cinema/
+- **Résumé** :
+  Outil 100 % navigateur pour appliquer des looks cinématiques (Teal & Orange, Noir, Vintage chaud, Sci-Fi froid, Pastel, Bleach Bypass) sur images.
+  Intensité réglable, aperçu live sur canvas, export PNG. Multilingue FR/EN/Taqbaylit, thème sombre.
+  Tout le traitement local, rien n'est envoyé. Licence MIT.
 
 ## drone-cinema
 
