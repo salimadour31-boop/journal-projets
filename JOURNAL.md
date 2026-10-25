@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-25 | harmonie-atelier | [repo](https://github.com/salimadour31-boop/harmonie-atelier) | [démo](https://salimadour31-boop.github.io/harmonie-atelier/) |
 | 2026-10-24 | look-cinema | [repo](https://github.com/salimadour31-boop/look-cinema) | [démo](https://salimadour31-boop.github.io/look-cinema/) |
 | 2026-10-23 | drone-cinema | [repo](https://github.com/salimadour31-boop/drone-cinema) | [démo](https://salimadour31-boop.github.io/drone-cinema/) |
 | 2026-10-22 | grain-cinema | [repo](https://github.com/salimadour31-boop/grain-cinema) | [démo](https://salimadour31-boop.github.io/grain-cinema/) |
@@ -58,6 +59,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
 
+## harmonie-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/harmonie-atelier
+- **Démo** : https://salimadour31-boop.github.io/harmonie-atelier/
+- **Résumé** :
+  Générateur de palettes harmonieuses 100 % navigateur : règles de couleur, extraction d'image locale, aperçu UI + cinéma, contraste WCAG.
+  Export CSS/JSON/PNG. Multilingue FR/EN/Taqbaylit, thème sombre. Rien n'est envoyé. MIT.
+  Complète les outils de design et de look cinématique existants.
+
 ## look-cinema
 
 - **Dépôt** : https://github.com/salimadour31-boop/look-cinema
@@ -66,48 +76,3 @@ Compte-rendu des outils open source publiés.
   Outil 100 % navigateur pour appliquer des looks cinématiques (Teal & Orange, Noir, Vintage chaud, Sci-Fi froid, Pastel, Bleach Bypass) sur images.
   Intensité réglable, aperçu live sur canvas, export PNG. Multilingue FR/EN/Taqbaylit, thème sombre.
   Tout le traitement local, rien n'est envoyé. Licence MIT.
-
-## drone-cinema
-
-- **Dépôt** : https://github.com/salimadour31-boop/drone-cinema
-- **Démo** : https://salimadour31-boop.github.io/drone-cinema/
-- **Résumé** :
-  Générateur d'ambiances sonores cinématiques (drones, pads, bruit) 100 % navigateur.
-  Presets (Noir, Désert, Espace...), contrôles volume/clarté/densité, visualiseur live.
-  Multilingue FR/EN/Taqbaylit, thème sombre. Rien n'est envoyé. MIT.
-
-## grain-cinema
-
-- **Dépôt** : https://github.com/salimadour31-boop/grain-cinema
-- **Démo** : https://salimadour31-boop.github.io/grain-cinema/
-- **Résumé** :
-  Outil 100 % navigateur pour ajouter un grain de film cinématique sur images.
-  Contrôles intensité, taille et mélange couleur/mono, aperçu live, export PNG.
-  Multilingue FR/EN/Taqbaylit, thème sombre. Aucune donnée envoyée. MIT.
-
-## texture-atelier
-
-- **Dépôt** : https://github.com/salimadour31-boop/texture-atelier
-- **Démo** : https://salimadour31-boop.github.io/texture-atelier/
-- **Résumé** :
-  Générateur de textures procédurales (bruit, grain film, papier, tissu, nuages) 100 % navigateur.
-  Contrôles échelle/contraste/graine, export PNG, multilingue FR/EN/Taqbaylit, thème sombre.
-  Idéal pour overlays vidéo et arrière-plans graphiques. Rien n'est envoyé. MIT.
-
-## rythme-machine
-
-- **Dépôt** : https://github.com/salimadour31-boop/rythme-machine
-- **Démo** : https://salimadour31-boop.github.io/rythme-machine/
-- **Résumé** :
-  Boîte à rythme 100 % navigateur : séquenceur 16 pas, 3 pistes (kick, snare, hi-hat) avec sons synthétisés via Web Audio API.
-  Contrôle BPM, lecture avec indicateur visuel, export JSON du motif. Multilingue FR/EN/Taqbaylit, thème sombre.
-  Aucune installation, aucun envoi de données. Licence MIT.
-
-## glyphe-atelier
-
-- **Dépôt** : https://github.com/salimadour31-boop/glyphe-atelier
-- **Démo** : https://salimadour31-boop.github.io/glyphe-atelier/
-- **Résumé** :
-  Créateur de polices par dessin libre dans le navigateur : grille de caractères (latin + tifinagh), canvas avec guides de métriques (baseline, x-height, capitales), stylo/gomme, annuler.
-  Aperçu de texte en direct, export PNG/SVG par glyphe et projet JSON complet. Multilingue FR/EN/Taqbaylit, thème clair/sombre.
-  100 % local, rien n'est envoyé. Complément de police-atelier (OTF depuis image). MIT.
