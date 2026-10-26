@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-26 | cinematic-palette | [repo](https://github.com/salimadour31-boop/cinematic-palette) | [démo](https://salimadour31-boop.github.io/cinematic-palette/) |
 | 2026-10-25 | harmonie-atelier | [repo](https://github.com/salimadour31-boop/harmonie-atelier) | [démo](https://salimadour31-boop.github.io/harmonie-atelier/) |
 | 2026-10-24 | look-cinema | [repo](https://github.com/salimadour31-boop/look-cinema) | [démo](https://salimadour31-boop.github.io/look-cinema/) |
 | 2026-10-23 | drone-cinema | [repo](https://github.com/salimadour31-boop/drone-cinema) | [démo](https://salimadour31-boop.github.io/drone-cinema/) |
@@ -58,6 +59,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## cinematic-palette
+
+- **Dépôt** : https://github.com/salimadour31-boop/cinematic-palette
+- **Démo** : https://salimadour31-boop.github.io/cinematic-palette/
+- **Résumé** :
+  Générateur de palettes cinématiques 100 % navigateur : genres (noir, sci-fi, western...), couleurs harmonieuses, copie HEX/CSS, export PNG.
+  Multilingue FR/EN, interface sombre responsive. Aucune dépendance, tout local. Licence MIT.
+  Complète les outils de look et de couleur existants pour graphistes et cinéastes.
 
 ## harmonie-atelier
 
