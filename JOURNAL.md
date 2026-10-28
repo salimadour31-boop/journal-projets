@@ -4,6 +4,7 @@ Compte-rendu des outils open source publiés.
 
 | Date | Projet | Dépôt | Démo |
 |---|---|---|---|
+| 2026-10-28 | modes-atelier | [repo](https://github.com/salimadour31-boop/modes-atelier) | [démo](https://salimadour31-boop.github.io/modes-atelier/) |
 | 2026-10-27 | cinema-palette | [repo](https://github.com/salimadour31-boop/cinema-palette) | [démo](https://salimadour31-boop.github.io/cinema-palette/) |
 | 2026-10-26 | cinematic-palette | [repo](https://github.com/salimadour31-boop/cinematic-palette) | [démo](https://salimadour31-boop.github.io/cinematic-palette/) |
 | 2026-10-25 | harmonie-atelier | [repo](https://github.com/salimadour31-boop/harmonie-atelier) | [démo](https://salimadour31-boop.github.io/harmonie-atelier/) |
@@ -60,6 +61,15 @@ Compte-rendu des outils open source publiés.
 | 2026-10-16 | palette-cinema | [repo](https://github.com/salimadour31-boop/palette-cinema) | [démo](https://salimadour31-boop.github.io/palette-cinema/) |
 | 2026-10-16 | letterbox-cinema | [repo](https://github.com/salimadour31-boop/letterbox-cinema) | [démo](https://salimadour31-boop.github.io/letterbox-cinema/) |
 | 2026-10-16 | cadre-cinema | [repo](https://github.com/salimadour31-boop/cadre-cinema) | [démo](https://salimadour31-boop.github.io/cadre-cinema/) |
+
+## modes-atelier
+
+- **Dépôt** : https://github.com/salimadour31-boop/modes-atelier
+- **Démo** : https://salimadour31-boop.github.io/modes-atelier/
+- **Résumé** :
+  Explorateur de modes musicaux cinématiques (Dorien, Phrygien, Lydien...) 100 % navigateur avec clavier virtuel, lecture audio Web Audio API et descriptions.
+  Multilingue FR/EN/Tamazight, interface sombre responsive. Tout local, aucune donnée envoyée. Licence MIT.
+  Complète les outils musicaux existants pour compositeurs et cinéastes.
 
 ## cinema-palette
 
